@@ -1,6 +1,8 @@
 # Hi! I'm Yuugou Ohno
-I'm a 4th year undergrad. I'll start working as a web engineer next year.
-I like traveling, bass guitar and juggling!
+#### I’m a student at the University of Tokoy. I'll start working as a web engineer next year.
+#### I like traveling, eating, playing bass guitar and juggling!!!
+#### Twitter : [https://twitter.com/YuugouOhno](https://twitter.com/YuugouOhno)
+#### Portfolio : [https://twitter.com/YuugouOhno](https://yuugouohno.vercel.app/)
 
 ## My Skills
  ### languages
