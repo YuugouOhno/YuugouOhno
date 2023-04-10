@@ -5,5 +5,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YuugouOhno&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>蛇</p>
-![github-user-contribution](https://user-images.githubusercontent.com/105062512/230809136-a6b62da7-c2e0-4c69-a455-b19035d68ae9.svg)
+[![github-user-contribution](https://user-images.githubusercontent.com/105062512/230809136-a6b62da7-c2e0-4c69-a455-b19035d68ae9.svg)]
