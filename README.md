@@ -12,7 +12,7 @@
 <img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,next,threejs,laravel,rails" />
 
  ### tools
-<img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=mysql,github,git,docker,supabase" />
+<img alt="Top Langs" width="50%" src="https://skillicons.dev/icons?i=mysql,github,git,docker,supabase" />
 
 
 
