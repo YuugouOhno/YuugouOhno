@@ -1,4 +1,6 @@
 # Hi! I'm Yuugou Ohno
+I'm a 4th year undergrad. I'll start working as a web engineer next year.
+I like traveling, bass guitar and juggling!
 
 ## My Skills
  ### languages
