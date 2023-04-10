@@ -1,15 +1,12 @@
-<link href="./style.css" rel="stylesheet"></link>
-<div>
+<div align="center">
 
-<img alt="github snake" height="150px" src="https://user-images.githubusercontent.com/105062512/230809563-d73669b4-e3c3-43c0-a4ee-c1bc39f1a3bf.svg" />
-<div style="
-    background-color: aliceblue;
-    height: 10px;
-    width: 10px;">
-</div>
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuugouOhno&layout=compact&show_icons=ture&theme=synthwave" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YuugouOhno&theme=synthwave&show_icons=true" />
-</p>
-<img alt="github trophy" height="100px" src="https://github-profile-trophy.vercel.app/?username=YuugouOhno&theme=dracula&column=7" />
+|![github-user-contribution (1)](https://user-images.githubusercontent.com/105062512/230812023-331255bc-461a-4c22-971a-f05e9220d9c5.svg)
+|:-:|
+
+
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuugouOhno&layout=compact&show_icons=ture&theme=synthwave" />
+
+<img alt="github stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=YuugouOhno&theme=synthwave&show_icons=true" />
+
+<img alt="github trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=YuugouOhno&theme=dracula&column=7" />
 </div>
