@@ -6,4 +6,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=YuugouOhno&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>蛇</p>
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YuugouOhno/YuugouOhno/blob/output/github-contribution-grid-snake.svg)
