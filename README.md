@@ -1,4 +1,6 @@
 # Hi! I'm Yuugou Ohno
+<img alt="Top Langs" width="42%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg1MmUwZDc1MTA3YjU3Y2Q3ZGJiZWE0MTFhZTY5ZGU4MzEwZGRlZCZjdD1n/Eq7Tdfqon2tv0SCYQE/giphy.gif" />
+
 #### I’m a student at the University of Tokoy. I'll start working as a web engineer next year.
 #### I like traveling, eating, playing bass guitar and juggling!!!
 #### Twitter : [https://twitter.com/YuugouOhno](https://twitter.com/YuugouOhno)
