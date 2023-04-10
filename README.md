@@ -22,4 +22,9 @@
  ### tools
 <img alt="Top Langs" width="50%" src="https://skillicons.dev/icons?i=mysql,github,git,docker,supabase" />
 
-  
+## Detailed data
+<img alt="git" width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuugouOhno&theme=nightowl" />
+
+<img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuugouOhno&theme=nightowl" /><img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuugouOhno&theme=nightowl" />
+
+<img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuugouOhno&theme=nightowl" /><img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuugouOhno&theme=nightowl&utcOffset=8" />
