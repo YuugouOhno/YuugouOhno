@@ -1,4 +1,6 @@
 # Hi! I'm Yuugou Ohno
+<img alt="Top Langs"  width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdiNjM0NDI3NTA4MDY3NjY1Yjk5NzQ5ZGVkYmE2ZTc2YzFiMDk5NCZjdD1n/PsBRxCZfiGLqFGIH1X/giphy.gif" />
+
 #### I’m a student at the Wasewda University. I'll start working as a web engineer next year.
 #### I like traveling, eating, playing bass guitar and juggling!!!
 #### Twitter : [https://twitter.com/YuugouOhno](https://twitter.com/YuugouOhno)
