@@ -4,7 +4,7 @@
 #### I’m a student at the Wasewda University. I'll start working as a web engineer next year.
 #### I like traveling, eating, playing bass guitar and juggling!!!
 #### Twitter : [https://twitter.com/YuugouOhno](https://twitter.com/YuugouOhno)
-#### Portfolio : [https://twitter.com/YuugouOhno](https://yuugouohno.vercel.app/)
+#### Portfolio : [https://yuugouohno.vercel.app](https://yuugouohno.vercel.app)
 
 ## Status
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuugouOhno&layout=compact&show_icons=ture&theme=synthwave" /><img alt="github stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=YuugouOhno&theme=synthwave&show_icons=true" />
