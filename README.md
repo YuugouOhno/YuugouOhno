@@ -1,4 +1,4 @@
-<link href="/style.css" rel="stylesheet"></link>
+<link href="./style.css" rel="stylesheet"></link>
 <div>
 
 <img alt="github snake" height="150px" src="https://user-images.githubusercontent.com/105062512/230809563-d73669b4-e3c3-43c0-a4ee-c1bc39f1a3bf.svg" />
