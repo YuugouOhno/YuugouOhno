@@ -16,10 +16,10 @@
 
 ## My Skills
  ### languages
-<img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=html,css,js,python,php,java,ruby" />
+<img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=html,css,js,python,php,java" />
 
  ### frameworks
-<img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,next,threejs,laravel,rails" />
+<img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,next,threejs,laravel" />
 
  ### tools
 <img alt="Top Langs" width="50%" src="https://skillicons.dev/icons?i=mysql,github,git,docker,supabase" />
