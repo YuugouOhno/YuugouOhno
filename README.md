@@ -1,32 +1,23 @@
-# Hi! I'm Yuugou Ohno
-<img alt="Top Langs"  width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdiNjM0NDI3NTA4MDY3NjY1Yjk5NzQ5ZGVkYmE2ZTc2YzFiMDk5NCZjdD1n/PsBRxCZfiGLqFGIH1X/giphy.gif" />
+# 大野優剛
 
-#### I’m a student at the Wasewda University. I'll start working as a web engineer next year.
-#### I like traveling, eating, playing bass guitar and juggling!!!
-#### Twitter : [https://twitter.com/YuugouOhno](https://twitter.com/YuugouOhno)
-#### Portfolio : [https://yuugouohno.vercel.app](https://yuugouohno.vercel.app)
+ここに何か貼りたいなぁ
 
-## Status
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuugouOhno&layout=compact&show_icons=ture&theme=synthwave" /><img alt="github stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=YuugouOhno&theme=synthwave&show_icons=true" />
+## プロフィール
+| 項目 | 内容 |
+| --- | --- |
+| 所属① | 早稲田大学 創造理工学研究科 地球・環境資源理工学専攻 伊坪研究室 |
+| 所属② | 産総研 ゼロエミッション国際共同研究センター 環境・社会評価研究チーム |
+| 言語 | Python, TypeScript, PHP, Dart, Go ...|
+| フレームワーク/ライブラリ | Next, React, Vue, Laravel, ... |
+| ツール | Figma, Canva, AWS, Docker, PostgreSQL, MySQL, DynamoDB, ... |
+| 資格 | 基本情報技術者, 普通自動車第一種運転免許 |
+| 学位 | 理工学 学士(修士 卒業見込み) |
 
-<img alt="github trophy" width="97%" src="https://github-profile-trophy.vercel.app/?username=YuugouOhno&theme=dracula&column=7" />
-  
-|<img alt="snake animation" width="100%" src="https://user-images.githubusercontent.com/105062512/230812023-331255bc-461a-4c22-971a-f05e9220d9c5.svg" />
-|:-:|
-
-## My Skills
- ### languages
-<img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=html,css,js,python,php,java" />
-
- ### frameworks
-<img alt="Top Langs" width="80%" src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,next,threejs,laravel" />
-
- ### tools
-<img alt="Top Langs" width="50%" src="https://skillicons.dev/icons?i=mysql,github,git,docker,supabase" />
-
-## Detailed data
+## アクティビティ
 <img alt="git" width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuugouOhno&theme=nightowl" />
 
 <img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuugouOhno&theme=nightowl" /><img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuugouOhno&theme=nightowl" />
 
 <img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuugouOhno&theme=nightowl" /><img alt="git" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuugouOhno&theme=nightowl&utcOffset=8" />
+
+<img alt="github trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=YuugouOhno&theme=dracula&column=9" />
